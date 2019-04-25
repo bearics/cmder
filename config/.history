@@ -1,0 +1,5 @@
+ls
+sc stop LxssManager
+ls
+ubuntu config --default-user root
+sc stop LxssManager
